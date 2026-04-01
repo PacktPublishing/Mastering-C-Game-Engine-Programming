@@ -1,0 +1,5 @@
+# ninja log v7
+62	204	7967432653835359	game/CMakeFiles/compackt_game.dir/src/main.cpp.obj	fba008f4aba48de9
+52	751	7967432653732561	engine/CMakeFiles/compackt_engine.dir/src/Engine.cpp.obj	ef7e565ef288f4a
+755	916	7967432660770446	engine/libcompackt_engine.a	cf2db6f886c5b474
+916	1127	7967432662382204	game/compackt_game.exe	e230f61e3400cab8

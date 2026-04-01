@@ -1,0 +1,10 @@
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/CMakeFiles/edit_cache.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/CMakeFiles/rebuild_cache.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/external/CMakeFiles/edit_cache.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/external/CMakeFiles/rebuild_cache.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/engine/CMakeFiles/compackt_engine.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/engine/CMakeFiles/edit_cache.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/engine/CMakeFiles/rebuild_cache.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/game/CMakeFiles/compackt_game.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/game/CMakeFiles/edit_cache.dir
+C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-01/compackt/build/game/CMakeFiles/rebuild_cache.dir
