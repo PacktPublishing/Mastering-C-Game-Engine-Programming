@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-02/compackt/build/cmake_install.cmake",
+		"C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-02/compackt/build/external/cmake_install.cmake",
+		"C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-02/compackt/build/engine/cmake_install.cmake",
+		"C:/AI_Studies/Writing_A_Book/RealPacktRepo/Mastering-C-Game-Engine-Programming/chapter-02/compackt/build/game/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
